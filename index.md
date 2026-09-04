@@ -1,8 +1,8 @@
 ![](./figures/LinuxBash_logos_small.png)
 
-**Last update**: 20260904-3
+**Last update**: 20260904-4
 
-This webpage contains the material for the crash course on **Linux OS** and **Bash** shell offered at Technical University of Darmstadt, September 7-9, 2026.
+This webpage contains the material for the crash course on **Linux OS** and **Bash** shell offered at the Technical University of Darmstadt, September 7-9, 2026.
 
 ### Outline
 
