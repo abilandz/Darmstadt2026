@@ -1,15 +1,14 @@
 ![](./figures/LinuxBash_logos_small.png)
 
-**Last update**: 20260904-2
+**Last update**: 20260904-3
 
 This webpage contains the material for the crash course on **Linux OS** and **Bash** shell offered at Technical University of Darmstadt, September 7-9, 2026.
 
 ### Outline
 
 **Day 1 (morning):**
-
 * [Introduction to Linux OS and shell scripting](day-1/01.md)
-* [Shell environment: commands and variables](day-1/02.md)
+* [Shell environment: commands, aliases, and variables](day-1/02.md)
 * [Special configuration files](day-1/03.md)
 * [Your first shell script](day-1/04.md)
 
