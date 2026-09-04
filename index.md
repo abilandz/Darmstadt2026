@@ -1,12 +1,13 @@
 ![](./figures/LinuxBash_logos_small.png)
 
-**Last update**: 20260904-1
+**Last update**: 20260904-2
 
-This webpage contains the material for the crash course on **Linux OS** and **Bash** shell offered in Darmstadt, in September 2026.
+This webpage contains the material for the crash course on **Linux OS** and **Bash** shell offered at Technical University of Darmstadt, September 7-9, 2026.
 
 ### Outline
 
 **Day 1 (morning):**
+
 * [Introduction to Linux OS and shell scripting](day-1/01.md)
 * [Shell environment: commands and variables](day-1/02.md)
 * [Special configuration files](day-1/03.md)
@@ -29,4 +30,4 @@ This webpage contains the material for the crash course on **Linux OS** and **Ba
 * [Real-life examples](day-2/06.md)
 
 
-The extended version of this crash course, worth 1 full semester of lecturing, is offered at the Technical University of Munich as the regular course _"PH8124: Scientific Computing in High-Energy Physics"_, and can be found at the following [link](https://academics.nat.tum.de/en/studies/org/mh/details/mod/PH8124).
+The extended version of this crash course, worth 1 full semester of lecturing, is offered at the Technical University of Munich as the regular course _"PH8124: Scientific Computing in High-Energy Physics"_ (more details can be found at the following [link](https://academics.nat.tum.de/en/studies/org/mh/details/mod/PH8124)).
