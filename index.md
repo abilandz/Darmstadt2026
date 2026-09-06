@@ -1,6 +1,6 @@
 ![](./figures/LinuxBash_logos_small.png)
 
-**Last update**: 20260904-4
+**Last update**: 20260906-1
 
 This webpage contains the material for the crash course on **Linux OS** and **Bash** shell offered at the Technical University of Darmstadt, September 7-9, 2026.
 
@@ -21,7 +21,7 @@ This webpage contains the material for the crash course on **Linux OS** and **Ba
 **Day 2 (morning):**
 * [Command substitution operator: **$( ... )**](day-2/01.md)
 * [Input/Output (I/O) and redirections](day-2/02.md)
-* [Pipes](day-2/03.md)
+* [Pipes **`|`** and Unix philosophy](day-2/03.md)
 * [Programmmatic text processing: **grep**, **sed**, and **awk**](day-2/04.md)
 
 **Day 2 (afternoon):**
